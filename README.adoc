@@ -207,7 +207,3 @@ Generate an image of a laptop using the style template my-style.md
 |uv not installed
 |Install via `curl -LsSf https://astral.sh/uv/install.sh \| sh`
 |===
-
-== License
-
-MIT
