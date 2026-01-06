@@ -1,0 +1,10 @@
+[project]
+name = "google-image-gen-skill"
+version = "1.0.0"
+description = "Claude Code skill for generating images with Google's Gemini API"
+requires-python = ">=3.10"
+dependencies = [
+    "google-genai>=1.0.0",
+    "python-dotenv>=1.0.0",
+    "pillow>=10.0.0",
+]
