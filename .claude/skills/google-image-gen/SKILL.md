@@ -1,7 +1,11 @@
 ---
 name: google-image-gen
-description: Generate images using Google's Gemini API. Use this skill when the user wants to generate, create, or edit images with AI. Keywords: image generation, create image, generate picture, AI art, edit image, Gemini, icon, render, illustration.
-allowed-tools: Bash, Read, Write, Glob
+description: >
+  Generate images using Google's Gemini API. Use this skill when the user wants
+  to generate, create, or edit images with AI. Keywords: image generation,
+  create image, generate picture, AI art, edit image, Gemini, icon, render,
+  illustration.
+allowed-tools: Bash, Read, Glob
 ---
 
 # Google Image Generation Skill
